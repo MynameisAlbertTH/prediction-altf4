@@ -8,7 +8,7 @@ import plotly.graph_objs as go
 import streamlit.components.v1 as components
 from prophet.plot import plot_plotly
 import numpy as np
-
+dasdasd
 streamlit_style = """
 			<style>
 			@import url(https://fonts.googleapis.com/css2?family=Mitr:wght@200;300;400;500;600;700&display=swap);
