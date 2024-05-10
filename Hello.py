@@ -11,7 +11,7 @@ import numpy as np
 
 
 
-
+sadasdasdasd
 
 
 # เปลี่ยนแปลงพอร์ตเซิร์ฟเวอร์เมื่อมีการรัน Streamlit app
